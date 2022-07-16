@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/sanitydev
 /.pnp
 .pnp.js
 
